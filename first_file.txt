@@ -1,6 +1,8 @@
-first time using git
+fffirst time using git
 First time using git, excited! update ...
 insert line here...
 insert line here...改代码
 第二次用git
 inseret line agein 加代码
+加点新内容
+update version3
